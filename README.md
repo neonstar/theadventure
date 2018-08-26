@@ -1,2 +1,2 @@
 # theadventure
-My game about little cube in big world
+Source code of the adventure
